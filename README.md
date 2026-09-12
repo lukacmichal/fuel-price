@@ -1,3 +1,5 @@
+> **2025 — my first attempt.** This was one console script. A year later it became [tankomat](https://github.com/lukacmichal/tankomat): an Android app with real road distances and 55 unit tests. I keep this one here on purpose, as the starting point.
+
 # Fuel Price Finder Script
 
 A small Python script that downloads fuel prices in your area, performs some calculations, and suggests the optimal station to save money.
