@@ -1,4 +1,4 @@
-> **2025 — my first attempt.** This was one console script. A year later it became [tankomat](https://github.com/lukacmichal/tankomat): an Android app with real road distances and 55 unit tests. I keep this one here on purpose, as the starting point.
+> **2025 — my first attempt.** This was one console script. A year later it became tankomat: an Android app with real road distances and 55 unit tests. I gave tankomat up in October 2026 — the price site kept changing its layout, and every change broke the app. Its screenshots and what I build now are on [my profile](https://github.com/lukacmichal). I keep this one here on purpose, as the starting point.
 
 # Fuel Price Finder Script
 
